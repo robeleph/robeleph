@@ -1,10 +1,10 @@
 ### Hi there, I'm Robel 👋 
 
-<!-- ## I'm a Software Engineer!! -->
+## I'm a Software Engineer!!
 
-<!-- - 🔭 I’m currently working as a Full Stack Developer -->
+- 🔭 I’m currently working as a Full Stack Developer
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-<!-- - 👯 I’m looking to collaborate on open source projects. -->
+- 👯 I’m looking to collaborate on open source projects.
 <br />
 
 <!-- https://personal-portfolio-sigma-sage.vercel.app/ -->
