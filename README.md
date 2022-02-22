@@ -51,12 +51,26 @@
 <br />
 <br />
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/robeleph">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robeleph&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robeleph&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
-</p>
+</p> -->
+
+<details open>
+    <summary>GitHub Stats</summary>
+    <table>
+        <tr>
+            <td>
+                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=robeleph&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="robelephraim github streak"/>
+            </td>
+            <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="robelephraim most used languages"/>
+            </td>
+        </tr>
+    </table>
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/robel-ephraim
