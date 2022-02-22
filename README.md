@@ -49,15 +49,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 <br />
-<br />
-
-<!-- <p align="center">
-<a href="https://github.com/robeleph">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robeleph&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robeleph&layout=compact&langs_count=8&theme=algolia"/> -->
-</a>
-</p> -->
-
 <details open>
     <summary>GitHub Stats</summary>
     <table>
