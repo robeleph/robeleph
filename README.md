@@ -1,6 +1,6 @@
 ### Hi there, I'm Robel 👋 
 
-## I'm a Software Engineer!!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working as a Full Stack Developer
 <!-- - 🌱 I’m currently learning everything 🤣 -->
