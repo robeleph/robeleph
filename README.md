@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 
-- 🔭 I’m currently working as a Full Stack Developer
+- 🔭 I’m currently working as a Frontend Engineer
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking to collaborate on open source projects.
 <br />
