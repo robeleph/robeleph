@@ -57,7 +57,7 @@
                 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=robeleph&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="robelephraim github streak"/>
             </td>
             <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&hide=html,css,scss&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="robelephraim most used languages"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&hide=html,css,scss,php&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="robelephraim most used languages"/>
             </td>
         </tr>
     </table>
