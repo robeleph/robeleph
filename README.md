@@ -21,8 +21,7 @@
 </p>
 
 
-### Languages and Tools:
-
+### Programming Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
