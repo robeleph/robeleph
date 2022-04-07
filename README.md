@@ -1,13 +1,13 @@
-### Hi there, I'm Robel 👋 
+<!-- ### Hi there, I'm Robel 👋 
 
 ## I'm a Software Engineer!
 
 - 🔭 I’m currently working as a Frontend Engineer
-<!-- - 🌱 I’m currently learning everything 🤣 -->
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source projects.
 <br />
 
-<!-- https://personal-portfolio-sigma-sage.vercel.app/ -->
+https://personal-portfolio-sigma-sage.vercel.app/ -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
 
