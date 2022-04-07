@@ -11,13 +11,13 @@ https://personal-portfolio-sigma-sage.vercel.app/ -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
 
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/robel-ephraim/"><img src="https://img.shields.io/badge/-Robel%20Ephraim%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="mailto:ephraimrobel15@gmail.com"><img src="https://img.shields.io/badge/-ephraimrobel15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<robeleph>&theme=<panda>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<robeleph>&theme=<panda>" /> -->
 </p>
 
 
