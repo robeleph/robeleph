@@ -51,15 +51,15 @@ https://personal-portfolio-sigma-sage.vercel.app/ -->
     <table>
         <tr>
             <td>
-                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=robeleph&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="robelephraim github streak"/>
+                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=robeleph&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="robelabdissa github streak"/>
             </td>
             <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&hide=html,css,scss&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="robelephraim most used languages"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&hide=html,css,scss&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="robelabdissa most used languages"/>
             </td>
         </tr>
     </table>
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/robel-ephraim
-[gmail]: https://www.mailto:ephraimrobel15@gmail.com
+[linkedin]: https://www.linkedin.com/in/robel-abdissa
+[gmail]: https://www.mailto:rabdissa@asu.edu
